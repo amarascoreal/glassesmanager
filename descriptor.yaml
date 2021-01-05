@@ -1,0 +1,13 @@
+code: glassesmanager-bundle
+description: This is the glassesmanager bundle
+
+components:
+  plugins:
+    - plugins/glassesmanager-plugin.yaml
+
+  widgets:
+    - ui/widgets/glass/tableWidget/glass-table-widget-descriptor.yaml
+    - ui/widgets/glass/detailsWidget/glass-details-widget-descriptor.yaml
+    - ui/widgets/glass/formWidget/glass-form-widget-descriptor.yaml
+# entando-needle-descriptor-add-widgets - Entando blueprint will add widget bundle files here
+
