@@ -1,0 +1,6 @@
+code: glass-details-widget
+titles:
+  en: Glass Details Widget
+  it: Glass Details Widget
+group: free
+customUiPath: glass-details-widget.ftl

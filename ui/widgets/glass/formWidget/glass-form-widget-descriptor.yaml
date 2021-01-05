@@ -1,0 +1,6 @@
+code: glass-form-widget
+titles:
+  en: Glass Form Widget
+  it: Glass Form Widget
+group: free
+customUiPath: glass-form-widget.ftl

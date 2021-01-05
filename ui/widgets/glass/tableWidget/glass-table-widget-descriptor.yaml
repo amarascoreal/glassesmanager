@@ -1,0 +1,6 @@
+code: glass-table-widget
+titles:
+  en: Glass Table Widget
+  it: Glass Table Widget
+group: free
+customUiPath: glass-table-widget.ftl
