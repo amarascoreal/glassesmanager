@@ -1,0 +1,6 @@
+code: packages-form-widget
+titles:
+  en: Packages Form Widget
+  it: Packages Form Widget
+group: free
+customUiPath: packages-form-widget.ftl

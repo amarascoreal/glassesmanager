@@ -1,0 +1,6 @@
+code: packages-details-widget
+titles:
+  en: Packages Details Widget
+  it: Packages Details Widget
+group: free
+customUiPath: packages-details-widget.ftl

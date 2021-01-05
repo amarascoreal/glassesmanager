@@ -9,5 +9,8 @@ components:
     - ui/widgets/glass/tableWidget/glass-table-widget-descriptor.yaml
     - ui/widgets/glass/detailsWidget/glass-details-widget-descriptor.yaml
     - ui/widgets/glass/formWidget/glass-form-widget-descriptor.yaml
+    - ui/widgets/packages/tableWidget/packages-table-widget-descriptor.yaml
+    - ui/widgets/packages/detailsWidget/packages-details-widget-descriptor.yaml
+    - ui/widgets/packages/formWidget/packages-form-widget-descriptor.yaml
 # entando-needle-descriptor-add-widgets - Entando blueprint will add widget bundle files here
 
