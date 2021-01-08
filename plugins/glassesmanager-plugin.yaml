@@ -1,8 +1,9 @@
-image: amarascoreal/glassesmanager:0.0.1-SNAPSHOT
+image: amarascoreal/glassesmanager:0.0.3-SNAPSHOT
 dbms: postgresql
 healthCheckPath: "/management/health"
 roles:
   - "glassesmanager-admin"
   - "glass-admin"
   - "packages-admin"
+  - "fake-entity-admin"
 # entando-needle-descriptor-add-roles - Entando blueprint will add roles here

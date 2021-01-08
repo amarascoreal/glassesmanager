@@ -1,0 +1,6 @@
+code: fake-entity-form-widget
+titles:
+  en: Fake Entity Form Widget
+  it: Fake Entity Form Widget
+group: free
+customUiPath: fake-entity-form-widget.ftl

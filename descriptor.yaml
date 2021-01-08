@@ -12,5 +12,8 @@ components:
     - ui/widgets/packages/tableWidget/packages-table-widget-descriptor.yaml
     - ui/widgets/packages/detailsWidget/packages-details-widget-descriptor.yaml
     - ui/widgets/packages/formWidget/packages-form-widget-descriptor.yaml
+    - ui/widgets/fake-entity/tableWidget/fake-entity-table-widget-descriptor.yaml
+    - ui/widgets/fake-entity/detailsWidget/fake-entity-details-widget-descriptor.yaml
+    - ui/widgets/fake-entity/formWidget/fake-entity-form-widget-descriptor.yaml
 # entando-needle-descriptor-add-widgets - Entando blueprint will add widget bundle files here
 
